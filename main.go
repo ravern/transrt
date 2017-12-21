@@ -3,7 +3,6 @@ package main
 import (
 	"fmt"
 	"os"
-	"regexp"
 
 	astisub "github.com/asticode/go-astisub"
 )
@@ -55,16 +54,16 @@ func ExtractLines(subs *astisub.Subtitles) []string {
 
 // GroupLinesSentences groups the lines up into sentences to be sent to DeepL
 func GroupLinesSentences(lines []string) [][]string {
-	cur := 0
 	groups := [][]string{[]string{}}
 
 	for _, l := range lines {
-		sens := splitSentences(l)
+		sens := SplitAfter(l, []byte{'.', '!', '?'})
 
 		fst := sens[0]
 		sens = sens[1:]
 
 		// Take the first element and skip to next one if there isn't any left
+		cur := len(groups) - 1
 		groups[cur] = append(groups[cur], fst)
 		if len(sens) == 0 {
 			continue
@@ -78,18 +77,42 @@ func GroupLinesSentences(lines []string) [][]string {
 			groups = append(groups, []string{s})
 		}
 
-		// Add the last one and change the current index
+		// Add the last one
 		groups = append(groups, []string{lst})
-		cur = len(groups) - 1
 	}
 
 	return groups
 }
 
-// splitSentences splits a string into sentences but it keeps the seperators
-func splitSentences(line string) []string {
-	regexp.MustCompile("")
-	return nil
+// SplitAfter is similar the strings.SplitAfter function but with multiple delimeters.
+func SplitAfter(s string, delims []byte) []string {
+	if len(delims) == 0 {
+		return nil
+	}
+
+	// Accumulator
+	strs := [][]byte{[]byte{}}
+
+	for _, b := range []byte(s) {
+		// Add it to the current string
+		cur := len(strs) - 1
+		strs[cur] = append(strs[cur], b)
+
+		// If it is a delim, move on to next string
+		for _, d := range delims {
+			if b == d {
+				strs = append(strs, []byte{})
+				break
+			}
+		}
+	}
+
+	ret := []string{}
+	for _, s := range strs {
+		ret = append(ret, string(s))
+	}
+
+	return ret
 }
 
 // TranslateGroup translates a single group
