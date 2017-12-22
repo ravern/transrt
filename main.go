@@ -144,20 +144,29 @@ func TranslateGroups(groups [][]string) ([][]string, error) {
 	// Split result by proportion
 	ret := [][]string{}
 	for i := range res.Result.Translations {
-		// Get the text of the best result
+		// Get the text of the best result in words
 		text := res.Result.Translations[i].Beams[0].PostprocessedSentence
-		length := NumWords(groups[i])
+		words := strings.Fields(text)
+
+		// Total number of words in the corresponding group
+		count := NumWords(groups[i])
+
+		// To be added to the return value
 		group := []string{}
 
 		for _, s := range groups[i][:len(groups[i])-1] {
-			// Take this number of chars from the text
-			take := int(float32(len(s)) / float32(length) * float32(len(text)))
-			group = append(group, text[:take])
-			text = text[take:]
+			// Number of words in current string
+			sCount := len(strings.Fields(s))
+
+			// Take this number of words from the text
+			take := int(float32(sCount) / float32(count) * float32(len(words)))
+
+			group = append(group, strings.Join(words[:take], " "))
+			words = words[take:]
 		}
 
-		// For the last item, just append the remainding chars
-		group = append(group, text)
+		// For the last item, just append the remainding words
+		group = append(group, strings.Join(words, " "))
 
 		ret = append(ret, group)
 	}
