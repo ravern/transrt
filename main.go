@@ -45,6 +45,21 @@ func OpenFile(path string) (*astisub.Subtitles, error) {
 	return subs, nil
 }
 
+// WriteFile writes the subtitles to the file
+func WriteFile(subs *astisub.Subtitles, path string) error {
+	wd, err := os.Getwd()
+	if err != nil {
+		return err
+	}
+
+	err = subs.Write(wd + "/" + path)
+	if err != nil {
+		return err
+	}
+
+	return nil
+}
+
 // ExtractLines convert the contents into just pure lines
 func ExtractLines(subs *astisub.Subtitles) []string {
 	lines := []string{}
