@@ -146,7 +146,7 @@ func TranslateGroups(groups [][]string) ([][]string, error) {
 	for i := range res.Result.Translations {
 		// Get the text of the best result
 		text := res.Result.Translations[i].Beams[0].PostprocessedSentence
-		length := totalLength(groups[i])
+		length := NumWords(groups[i])
 		group := []string{}
 
 		for _, s := range groups[i][:len(groups[i])-1] {
@@ -165,13 +165,9 @@ func TranslateGroups(groups [][]string) ([][]string, error) {
 	return ret, nil
 }
 
-// totalLength of a slice of strings
-func totalLength(sl []string) int {
-	var ret int
-	for _, s := range sl {
-		ret += len(s)
-	}
-	return ret
+// NumWords returns the number of words in the given slice of strings
+func NumWords(sl []string) int {
+	return len(strings.Fields(strings.Join(sl, " ")))
 }
 
 // UngroupLines converts the groups back into their ungrouped state

@@ -67,3 +67,34 @@ func TestGroupLinesSentences(t *testing.T) {
 		}
 	}
 }
+
+func TestNumWords(t *testing.T) {
+	tests := []struct {
+		words []string
+		num   int
+	}{
+		{
+			[]string{
+				"hello this",
+				"is a human. i am",
+				"interested.",
+			},
+			8,
+		},
+		{
+			[]string{
+				"Another string",
+				"to test-my-beloved",
+				"function.",
+			},
+			5,
+		},
+	}
+
+	for i, test := range tests {
+		num := main.NumWords(test.words)
+		if num != test.num {
+			t.Errorf("Test %d: Expected %d but got %d.", i+1, test.num, num)
+		}
+	}
+}
