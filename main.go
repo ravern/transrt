@@ -17,10 +17,9 @@ func main() {
 	groups, err = TranslateGroups(groups)
 	check(err)
 	lines = UngroupLines(groups)
-
-	for _, l := range lines {
-		fmt.Printf("%s\n\n", l)
-	}
+	InsertLines(subs, lines)
+	err = WriteFile(subs, "output.srt")
+	check(err)
 }
 
 func check(err error) {
@@ -200,4 +199,12 @@ func UngroupLines(groups [][]string) []string {
 
 // InsertLines inserts the lines back into the subtitles object
 func InsertLines(subs *astisub.Subtitles, lines []string) {
+	for _, i := range subs.Items {
+		for _, l := range i.Lines {
+			for idx := range l.Items {
+				l.Items[idx].Text = lines[0]
+				lines = lines[1:]
+			}
+		}
+	}
 }
