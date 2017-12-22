@@ -11,8 +11,7 @@ func main() {
 	subs, err := OpenFile("sample.srt")
 	check(err)
 
-	lines := ExtractLines(subs)
-	fmt.Println(lines)
+	_ = ExtractLines(subs)
 }
 
 func check(err error) {
