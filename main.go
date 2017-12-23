@@ -1,6 +1,7 @@
 package main
 
 import (
+	"flag"
 	"fmt"
 	"os"
 	"strings"
@@ -9,16 +10,24 @@ import (
 	"github.com/ravernkoh/translate-srt/deepl"
 )
 
+type config struct {
+	input  string
+	output string
+	from   string
+	to     string
+}
+
 func main() {
-	subs, err := OpenFile("sample.srt")
+	c := parseFlags()
+	subs, err := OpenFile(c.input)
 	check(err)
 	lines := ExtractLines(subs)
 	groups := GroupLinesSentences(lines)
-	groups, err = TranslateGroups(groups)
+	groups, err = TranslateGroups(groups, c.from, c.to)
 	check(err)
 	lines = UngroupLines(groups)
 	InsertLines(subs, lines)
-	err = WriteFile(subs, "output.srt")
+	err = WriteFile(subs, c.output)
 	check(err)
 }
 
@@ -27,6 +36,16 @@ func check(err error) {
 		fmt.Println(err)
 		os.Exit(1)
 	}
+}
+
+func parseFlags() *config {
+	c := &config{}
+	flag.StringVar(&c.input, "input", "input.srt", "File to be translated")
+	flag.StringVar(&c.output, "output", "output.srt", "File to write the translations to")
+	flag.StringVar(&c.from, "from", "EN", "Language to translate from")
+	flag.StringVar(&c.to, "to", "DE", "Language to translate to")
+	flag.Parse()
+	return c
 }
 
 // OpenFile reads the contents of the file
@@ -129,8 +148,10 @@ func SplitAfter(s string, delims []byte) []string {
 }
 
 // TranslateGroups translates a slice of groups
-func TranslateGroups(groups [][]string) ([][]string, error) {
+func TranslateGroups(groups [][]string, from string, to string) ([][]string, error) {
 	req := deepl.NewDeepl()
+	req.SetSourceLang(from)
+	req.SetTargetLang(to)
 	for _, g := range groups {
 		req.AddJob(strings.Join(g, ""))
 	}
@@ -143,6 +164,12 @@ func TranslateGroups(groups [][]string) ([][]string, error) {
 	// Split result by proportion
 	ret := [][]string{}
 	for i := range res.Result.Translations {
+		// Check if translation worked
+		if len(res.Result.Translations[i].Beams) == 0 {
+			ret = append(ret, []string{""})
+			continue
+		}
+
 		// Get the text of the best result in words
 		text := res.Result.Translations[i].Beams[0].PostprocessedSentence
 		words := strings.Fields(text)

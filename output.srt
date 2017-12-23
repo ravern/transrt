@@ -1,16 +1,16 @@
 ﻿1
 00:00:00,000 --> 00:00:01,500
-Hallo!Dies sind einige Beispiel-Untertitel.
+Ciao!Questo è un esempio di sottotitoli.
 
 2
 00:00:01,500 --> 00:00:02,500
-Dies ist eine Beispiel-SRT-Datei, um das
+Questo è un esempio di file SRT per
 
 3
 00:00:03,000 --> 00:00:15,000
-translate-srt-Programm zu demothemen.
+demothe traslate-srt programma.
 
 4
 00:00:16,000 --> 00:00:20,000
-Mehrzeiliger
-Text.
+Muliple righe di
+testo.
