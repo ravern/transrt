@@ -1,16 +1,1087 @@
 ﻿1
-00:00:00,000 --> 00:00:01,500
-Ciao!Questo è un esempio di sottotitoli.
+00:00:01,634 --> 00:00:03,485
+ 
 
 2
-00:00:01,500 --> 00:00:02,500
-Questo è un esempio di file SRT per
+00:00:03,486 --> 00:00:04,803
+[CHILLANDO][WARBLE, ZAP!
 
 3
-00:00:03,000 --> 00:00:15,000
-demothe traslate-srt programma.
+00:00:09,310 --> 00:00:10,476
+
 
 4
-00:00:16,000 --> 00:00:20,000
-Muliple righe di
-testo.
+00:00:12,259 --> 00:00:13,529
+[ROARS]?"Adventure Time"??
+
+5
+00:00:13,530 --> 00:00:14,897
+Vamos, agarra a tus
+
+6
+00:00:14,898 --> 00:00:17,700
+amigos?? iremos a tierras
+
+7
+00:00:17,701 --> 00:00:20,059
+muy lejanas?? con Jake
+
+8
+00:00:20,060 --> 00:00:21,570
+the Dog
+
+9
+00:00:21,571 --> 00:00:23,589
+y
+
+10
+00:00:24,052 --> 00:00:30,052
+Finn
+the Human?? La diversión nunca terminará?? es "Adventure Time"? <b><font>"#ff0000">Sync and corrections by btsixwww.adicto7ed.com</font></b>[CLEARS
+
+11
+00:00:36,164 --> 00:00:37,184
+THROAT]Bien, así
+
+12
+00:00:37,185 --> 00:00:38,758
+que esto es lo que pasó.
+
+13
+00:00:39,168 --> 00:00:41,036
+Envié a mi mejor
+empleado,
+
+14
+00:00:41,037 --> 00:00:42,705
+Rennie Hamlin, para comprobar una de mis propiedades...
+
+15
+00:00:42,706 --> 00:00:45,074
+Bien, jefe, estoy aquí ahora.
+
+16
+00:00:45,075 --> 00:00:47,276
+Investigaciones Joshua y Margaret!
+
+17
+00:00:47,277 --> 00:00:50,461
+Sí, definitivamente ha habido un robo.
+
+18
+00:00:50,462 --> 00:00:51,535
+Mira los daños.
+
+19
+00:00:51,536 --> 00:00:53,762
+Te llamaré en 30 segundos.
+
+20
+00:00:57,755 --> 00:00:59,422
+
+
+21
+00:01:05,663 --> 00:01:06,896
+
+
+22
+00:01:06,897 --> 00:01:07,963
+¿Rennie? ¿Rennie?
+
+23
+00:01:07,964 --> 00:01:10,933
+
+
+24
+00:01:10,934 --> 00:01:13,140
+Y ha estado así desde entonces.
+
+25
+00:01:14,939 --> 00:01:18,741
+
+
+26
+00:01:18,742 --> 00:01:20,176
+Tipo pobre.
+
+27
+00:01:20,177 --> 00:01:22,478
+Algo aterrador se ha instalado
+
+28
+00:01:22,479 --> 00:01:24,625
+en la antigua oficina
+
+29
+00:01:24,626 --> 00:01:26,382
+de Joshua y Margaret, y no paga el alquiler.
+
+30
+00:01:26,383 --> 00:01:29,213
+Así que quiero que averigüen
+qué es y lo saquen.
+
+31
+00:01:29,214 --> 00:01:30,953
+¡Sí, señor, hijo!
+
+32
+00:01:30,954 --> 00:01:32,588
+¡Tienes una hora!
+
+33
+00:01:32,589 --> 00:01:33,923
+Adiós, papá.
+
+34
+00:01:35,159 --> 00:01:37,193
+Me pregunto qué podría ser.
+
+35
+00:01:37,194 --> 00:01:39,123
+Tal vez sea un dios de pescado podrido
+
+36
+00:01:39,124 --> 00:01:41,630
+con tentáculos largos y viscosos.
+
+37
+00:01:41,631 --> 00:01:45,234
+Tal vez sea un hombre lobo
+en cuclillas de platería adolescente.
+
+38
+00:01:45,235 --> 00:01:47,069
+¿Sabes lo que podría ser?
+
+39
+00:01:47,070 --> 00:01:48,971
+Podría ser un fantasma.
+
+40
+00:01:48,972 --> 00:01:51,173
+Creo que vi un fantasma
+allí cuando era un bebé.
+
+41
+00:01:51,174 --> 00:01:52,908
+Tal vez es como un hotspot fantasma.
+
+42
+00:01:52,909 --> 00:01:55,044
+Fantasmas, ¿eh?
+
+43
+00:01:55,045 --> 00:01:57,780
+¡Whoa, espera!¿Y si lo es?..
+
+44
+00:01:57,781 --> 00:01:59,181
+¡Mamá y papá fantasma!
+
+45
+00:01:59,182 --> 00:02:00,639
+¡Tengo que cepillarme el pelo!
+
+46
+00:02:00,640 --> 00:02:02,372
+¡Voy a buscar tulipanes para mamá!
+
+47
+00:02:06,224 --> 00:02:09,291
+Tío, nunca antes había estado
+tan emocionado por los fantasmas.
+
+48
+00:02:09,292 --> 00:02:11,172
+Esto podría ser una
+más para decirle
+
+49
+00:02:11,173 --> 00:02:12,250
+a mamá y papá cuánto los queremos.
+
+50
+00:02:12,251 --> 00:02:14,176
+Y demuéstrales que sus
+hijos son increíbles.
+
+51
+00:02:18,469 --> 00:02:20,336
+JAKE: ¿Hola?¿Fantasmas?
+
+52
+00:02:20,337 --> 00:02:23,673
+¡Si está aquí, por favor evacuen
+la propiedad de mi hijo!
+
+53
+00:02:23,674 --> 00:02:25,453
+¡A menos que sean fantasmas de mamá y papá!
+
+54
+00:02:25,454 --> 00:02:27,522
+¡Sí, en ese caso, traje flores!
+
+55
+00:02:28,945 --> 00:02:31,414
+Mira.Ahí está la ventana rota.
+
+56
+00:02:31,415 --> 00:02:34,487
+Pero no veo ninguna señal de
+ocupantes ilegales...o fantasmas.
+
+57
+00:02:34,488 --> 00:02:35,737
+Los olfatearé.
+
+58
+00:02:35,738 --> 00:02:38,108
+Oye,
+
+59
+00:02:38,109 --> 00:02:39,121
+Jake, ¿por
+
+60
+00:02:39,122 --> 00:02:41,323
+qué no somos los dueños de este lugar?
+
+61
+00:02:41,859 --> 00:02:44,627
+No lo sé.Kim Kil Whan
+es un buen hombre de negocios.
+
+62
+00:02:44,628 --> 00:02:47,096
+Además me sentiría un poco
+rara lidiando con esto.
+
+63
+00:02:47,097 --> 00:02:51,233
+Sí.Mirando todo esto
+es como:"¡Guau, recuerdos!"Como
+
+64
+00:02:51,234 --> 00:02:52,866
+esta máquina de cinta de teletipo.
+
+65
+00:02:52,867 --> 00:02:54,403
+¿Recuerdas cuando mamá
+y papá nos
+
+66
+00:02:54,404 --> 00:02:56,005
+trajeron al trabajo e hicimos un fuerte de teletipo?
+
+67
+00:02:56,006 --> 00:02:57,473
+¡Estaba justo ahí!
+
+68
+00:02:57,474 --> 00:03:00,449
+Y por aquí me diste
+a Willie mojado una vez.
+
+69
+00:03:00,450 --> 00:03:02,311
+No, no, no lo hice.
+
+70
+00:03:02,312 --> 00:03:04,398
+Cierto.Sé que crees que eso es verdad, pero
+
+71
+00:03:04,399 --> 00:03:06,549
+los recuerdos se distorsionan con el tiempo.
+
+72
+00:03:06,550 --> 00:03:08,789
+Síndrome clásico de falsa memoria.
+
+73
+00:03:08,790 --> 00:03:11,454
+Tal vez<i> eres</i> el que tiene
+un síndrome de memoria falsa.
+
+74
+00:03:11,455 --> 00:03:14,790
+Respuesta clásica al síndrome de falsa memoria.
+
+75
+00:03:14,791 --> 00:03:17,526
+
+
+76
+00:03:17,527 --> 00:03:18,694
+¿Escuchaste eso?
+
+77
+00:03:18,695 --> 00:03:21,130
+¿Puedes usar los poderes de tu
+perro para localizar ese sonido?
+
+78
+00:03:21,131 --> 00:03:22,998
+Muy por delante de ti, amigo.
+
+79
+00:03:22,999 --> 00:03:25,647
+Uh...por allí!
+
+80
+00:03:28,259 --> 00:03:29,603
+Aha!
+
+81
+00:03:29,604 --> 00:03:31,874
+¿Hay algo?
+
+82
+00:03:31,875 --> 00:03:33,075
+¿Algo?
+
+83
+00:03:33,076 --> 00:03:35,763
+No.Este es un bonito baño, sin embargo.
+
+84
+00:03:35,764 --> 00:03:37,680
+Tío, toda esta oficina es bonita.
+
+85
+00:03:37,681 --> 00:03:40,282
+Es como una litera cómo
+papá y mamá dejaron de usarla.
+
+86
+00:03:40,283 --> 00:03:42,952
+Sí, es raro que
+tuvieran toda esta
+
+87
+00:03:42,953 --> 00:03:44,954
+otra vida, y se les cayó para nosotros los bebés.
+
+88
+00:03:44,955 --> 00:03:48,212
+Fuimos bebés para siempre.Hombre, apestamos.
+
+89
+00:03:48,213 --> 00:03:50,213
+Sí, pero sabían
+en qué se metían.
+
+90
+00:03:50,214 --> 00:03:52,194
+Whoa!
+
+91
+00:03:52,195 --> 00:03:53,496
+¿Quién movió el sofá?
+
+92
+00:03:53,497 --> 00:03:55,510
+¿Quién puso esas sillas?!
+
+93
+00:03:55,511 --> 00:03:57,066
+¿Quién puso la mesa?!
+
+94
+00:03:57,067 --> 00:03:58,334
+¿Qué está sucediendo?!
+
+95
+00:03:58,335 --> 00:04:00,736
+Este griz es poltergeist biz.
+
+96
+00:04:00,737 --> 00:04:01,950
+Pero no quiero eso.
+
+97
+00:04:02,601 --> 00:04:04,607
+Abraza lo paranormal, hermano.
+
+98
+00:04:04,608 --> 00:04:08,244
+¿Son estas velas verdaderas velas
+orpoltergeist trucos mentales?
+
+99
+00:04:08,245 --> 00:04:11,714
+[TAPE RATTLING] ¡Mira!
+
+100
+00:04:11,715 --> 00:04:13,048
+¡Poltergeist!
+
+101
+00:04:13,049 --> 00:04:15,045
+MARGARET:
+
+102
+00:04:15,046 --> 00:04:17,865
+<i>Ooh, bien.Ahora está encendido, querida.
+
+103
+00:04:17,866 --> 00:04:19,390
+Bien hecho, Margaret, amor.
+
+104
+00:04:19,391 --> 00:04:21,490
+</i>¡Papá!Hola, gente del futuro.
+
+105
+00:04:21,491 --> 00:04:24,126
+Soy Joshua de Investigaciones
+Joshua y Margaret.
+
+106
+00:04:24,127 --> 00:04:26,595
+</i><i>Y detrás de la cámara tienes
+mi querida esposa y compañera, Margaret.
+
+107
+00:04:26,596 --> 00:04:28,397
+</i><i>- Hola.
+Estamos haciendo esta cinta</i><i><i>
+
+108
+00:04:28,398 --> 00:04:30,266
+para documentar
+los fenómenos extrangefenómenos en nuestra nueva oficina.
+
+109
+00:04:30,267 --> 00:04:32,498
+</i><i>Igual que
+este extraño mensaje...</i>[<i>PAPER
+
+110
+00:04:32,499 --> 00:04:34,436
+RUSTLES</i>] <i>Oh, puré de manzana.</i><i>You'
+
+111
+00:04:34,437 --> 00:04:37,129
+ve really
+stepped in it now, dear.
+
+112
+00:04:37,130 --> 00:04:38,397
+</i><i>Indudablemente.
+
+113
+00:04:38,398 --> 00:04:40,409
+</i><i>>Pero algo está
+definitivamente intentando charlar
+
+114
+00:04:40,410 --> 00:04:41,598
+con nosotros, </i><i>>y vamos a captarlo en la película.
+
+115
+00:04:41,599 --> 00:04:43,363
+</i><i>>I got
+this fancyghost-host-hunting doohickey.
+
+116
+00:04:43,364 --> 00:04:45,447
+</i><i>It's supposed to record EVPs and such.
+
+117
+00:04:45,448 --> 00:04:46,916
+
+
+118
+00:04:46,917 --> 00:04:48,918
+</i><i>[TICKING][GASPS]</i><i><i>Gracious, ¡ahí está!
+
+119
+00:04:48,919 --> 00:04:51,333
+</i><i>Margaret!¡Margaret!
+¡Hay otro por aquí!
+
+120
+00:04:53,068 --> 00:04:54,361
+
+
+121
+00:04:55,445 --> 00:04:58,545
+</i>[<i>SCREAMS</i>]¡Amigo!¡Este lugar está lleno de fantasmas!
+
+122
+00:04:58,546 --> 00:05:00,148
+Deberíamos
+
+123
+00:05:00,149 --> 00:05:02,451
+separarnos y ver
+si podemos conseguir que aparezcan.
+
+124
+00:05:02,452 --> 00:05:03,845
+¡Tomaré el baño!
+
+125
+00:05:04,162 --> 00:05:05,651
+Ese es el espíritu.
+
+126
+00:05:05,652 --> 00:05:07,603
+Hmm."Espíritu.
+
+127
+00:05:07,604 --> 00:05:11,273
+"Quizá mamá y
+
+128
+00:05:12,322 --> 00:05:15,089
+papá dejaron algunos
+libros sobre la caza de fantasmas.
+
+129
+00:05:16,105 --> 00:05:17,813
+Hmm.
+
+130
+00:05:17,814 --> 00:05:20,049
+
+
+131
+00:05:20,050 --> 00:05:22,618
+¡Un fantasma!
+
+132
+00:05:25,156 --> 00:05:28,583
+Parece que el tic-tac antes de
+cada encuentro de fantasmas.
+
+133
+00:05:29,025 --> 00:05:31,067
+Vale, Finn, ¿qué garrapatas?
+
+134
+00:05:31,068 --> 00:05:34,029
+Metrónomos, bombas, lápices.
+
+135
+00:05:34,030 --> 00:05:36,599
+
+
+136
+00:05:36,600 --> 00:05:39,268
+El baño es mucho más
+aterrador de lo que esperaba.
+
+137
+00:05:39,269 --> 00:05:41,236
+
+
+138
+00:05:41,237 --> 00:05:42,471
+
+
+139
+00:05:42,472 --> 00:05:45,874
+Corazones, temporizadores, máquinas de escribir.
+
+140
+00:05:45,875 --> 00:05:48,344
+¿Qué
+
+141
+00:05:48,345 --> 00:05:50,417
+más? ¿Qué más?
+¡Quiénes,
+
+142
+00:05:50,418 --> 00:05:53,684
+
+
+143
+00:05:53,685 --> 00:05:55,851
+bebés lil' ghost!
+
+144
+00:05:55,852 --> 00:05:58,287
+¡Espera, ese es el bebé Jermaine!
+
+145
+00:05:58,288 --> 00:05:59,989
+¡Y el bebé Jake!
+
+146
+00:05:59,990 --> 00:06:01,190
+¡Y bebeme!
+
+147
+00:06:01,191 --> 00:06:03,025
+¡Babababa!
+
+148
+00:06:03,026 --> 00:06:04,360
+
+
+149
+00:06:06,731 --> 00:06:08,330
+
+
+150
+00:06:08,331 --> 00:06:11,162
+Oh, ¿si?
+
+151
+00:06:12,068 --> 00:06:13,869
+
+
+152
+00:06:13,870 --> 00:06:16,105
+Ohh!¡Yip!¡Yip!¡Yip!¡Yip!
+
+153
+00:06:16,106 --> 00:06:17,606
+
+
+154
+00:06:17,607 --> 00:06:19,779
+Oh, deprisa.Supongo que fui yo.
+
+155
+00:06:20,610 --> 00:06:23,612
+Espera un momento.Estos bebés no
+son fantasmas macabros en absoluto.
+
+156
+00:06:23,613 --> 00:06:28,851
+Son como el tiempo...
+disto...a...morphs?
+
+157
+00:06:28,852 --> 00:06:30,653
+Hmm.
+
+158
+00:06:30,654 --> 00:06:31,854
+
+
+159
+00:06:32,512 --> 00:06:33,555
+¿Asustado?
+
+160
+00:06:33,556 --> 00:06:37,210
+¡De ninguna manera!¡Soy primitivo!¡Soy real!
+
+161
+00:06:38,010 --> 00:06:40,195
+¡Fantasmas, no pueden tocar a este perro!
+
+162
+00:06:40,196 --> 00:06:41,764
+¡Tienes manos etéreas!
+
+163
+00:06:41,765 --> 00:06:44,528
+¡Estoy vivo!¡Estoy lleno de sangre caliente!
+
+164
+00:06:44,529 --> 00:06:46,268
+¡Nunca verás a través de mí!
+
+165
+00:06:46,269 --> 00:06:48,771
+¡Te tengo, demonio!
+
+166
+00:06:49,579 --> 00:06:50,718
+¿Perdón?
+
+167
+00:06:50,719 --> 00:06:51,745
+¡Aah!
+
+168
+00:06:51,746 --> 00:06:54,843
+Perdón por interrumpir tu caca.
+
+169
+00:06:58,207 --> 00:07:00,007
+Lo siento de
+nuevo, pero tengo una pregunta...
+
+170
+00:07:00,008 --> 00:07:01,216
+
+
+171
+00:07:01,217 --> 00:07:02,985
+
+
+172
+00:07:02,986 --> 00:07:05,788
+
+
+173
+00:07:05,789 --> 00:07:07,656
+¡Tengo que salir de aquí!
+
+174
+00:07:07,657 --> 00:07:11,193
+No, Jake.Tienes que quedarte
+para tu chico Kim Kil Whan.
+
+175
+00:07:11,194 --> 00:07:13,929
+¡Fantasma!¡Deja de molestar a mi hijo!
+
+176
+00:07:13,930 --> 00:07:15,698
+¡Ese es el trabajo de un padre!
+
+177
+00:07:15,699 --> 00:07:17,433
+¡Margaret, aléjate!
+
+178
+00:07:17,434 --> 00:07:18,701
+Huh?
+
+179
+00:07:18,702 --> 00:07:20,803
+¡Algo está a punto de pasar!
+
+180
+00:07:20,804 --> 00:07:21,904
+¿Papá?
+
+181
+00:07:22,495 --> 00:07:26,029
+Así que puedo verte, y tú puedes verme.
+
+182
+00:07:26,030 --> 00:07:28,430
+Y ahora estamos ocupando el mismo espacio.
+
+183
+00:07:28,431 --> 00:07:31,246
+Así que esta vez las cosas
+deben estar volviéndose más intensas.
+
+184
+00:07:31,247 --> 00:07:32,247
+Whoa!
+
+185
+00:07:32,248 --> 00:07:34,616
+¡Hey,
+
+186
+00:07:35,714 --> 00:07:38,233
+enredadera, deja de
+arrastrarte con el bebé Jake!
+
+187
+00:07:39,859 --> 00:07:40,923
+¿El bebé Jake?
+
+188
+00:07:40,924 --> 00:07:43,349
+¡Finn!¡Me estoy volviendo loco!
+
+189
+00:07:43,350 --> 00:07:45,961
+¡Acabo de ver la cosa más desordenada!
+
+190
+00:07:45,962 --> 00:07:47,296
+¿Papá?
+
+191
+00:07:47,297 --> 00:07:50,532
+¡Margaret, aléjate!
+¡Algo está a punto de pasar!
+
+192
+00:07:50,533 --> 00:07:53,135
+¡Algo va
+a pasar conmigo también!
+
+193
+00:07:53,136 --> 00:07:55,137
+¡Margaret!¡Aah!
+
+194
+00:07:55,138 --> 00:07:56,578
+[SPLAT!
+
+195
+00:07:57,779 --> 00:07:58,978
+Yowzas!
+
+196
+00:08:00,779 --> 00:08:03,445
+¡Hola, papi!¡Hola, mami!
+
+197
+00:08:03,446 --> 00:08:05,777
+¡Es tan agradable estar aquí contigo ahora!
+
+198
+00:08:06,344 --> 00:08:08,320
+¡Así no es como nací!
+
+199
+00:08:08,321 --> 00:08:11,865
+¡No soy un bebé melón!¡Soy
+un majestuoso bebé del útero!
+
+200
+00:08:11,866 --> 00:08:13,622
+Jake, cálmate.
+
+201
+00:08:13,623 --> 00:08:16,692
+¡Voy a ser salvaje en
+el próximo fantasma que vea!
+
+202
+00:08:18,329 --> 00:08:19,428
+¡Chico,
+
+203
+00:08:20,263 --> 00:08:23,165
+me encantan los bienes raíces!
+
+204
+00:08:23,166 --> 00:08:26,969
+[GASPS] ¡Aah!
+
+205
+00:08:26,970 --> 00:08:28,103
+
+
+206
+00:08:28,104 --> 00:08:29,705
+¡Aah!
+
+207
+00:08:33,377 --> 00:08:34,877
+¿KIM
+
+208
+00:08:34,878 --> 00:08:38,647
+KIL WHAN: Rennie?¡Estamos
+
+209
+00:08:39,169 --> 00:08:41,219
+atrapados en una trampa de fantasmas!
+
+210
+00:08:41,220 --> 00:08:43,480
+Relájate, hermano.No hay fantasmas.
+
+211
+00:08:43,481 --> 00:08:46,192
+Lo que estamos experimentando son resbalones de tiempo.
+
+212
+00:08:47,344 --> 00:08:49,945
+El punto es, <i>algo</i> está causando esto.
+
+213
+00:08:49,946 --> 00:08:51,794
+¿Estás listo?
+
+214
+00:08:51,795 --> 00:08:54,696
+
+
+215
+00:08:58,402 --> 00:08:59,622
+¿Estás listo?
+
+216
+00:09:04,074 --> 00:09:05,737
+¡Dingalings del tiempo!
+
+217
+00:09:06,543 --> 00:09:08,443
+Espera, ese tictac.
+
+218
+00:09:08,990 --> 00:09:11,013
+¡Sé quién es éste!
+
+219
+00:09:12,983 --> 00:09:14,115
+Reloj Oso!
+
+220
+00:09:14,116 --> 00:09:17,587
+Uno de los tipos que escapó
+del Dr.Menaje asqueroso.
+
+221
+00:09:17,588 --> 00:09:20,215
+Debe ser el
+causante del tiempo.
+
+222
+00:09:21,182 --> 00:09:22,645
+Somos nosotros de antes.
+
+223
+00:09:24,394 --> 00:09:26,461
+
+
+224
+00:09:26,462 --> 00:09:27,844
+¿Está usted enfermo?
+
+225
+00:09:27,845 --> 00:09:30,694
+¡Sí, estoy bastante disgustado
+con todo el asunto!
+
+226
+00:09:30,695 --> 00:09:32,234
+Me refería a Oso Reloj.
+
+227
+00:09:32,235 --> 00:09:35,270
+
+
+228
+00:09:38,175 --> 00:09:40,576
+
+
+229
+00:09:42,913 --> 00:09:44,947
+[GIMNASIA][CLICK][FWOOM!
+
+230
+00:09:44,948 --> 00:09:47,816
+][FWOOM!
+
+231
+00:09:47,817 --> 00:09:49,384
+][FWOOM!
+
+232
+00:09:49,385 --> 00:09:51,019
+Está absorbiendo todo el tiempo derramado!
+
+233
+00:09:51,020 --> 00:09:53,488
+¡Eso no suena científico!
+Jake,
+
+234
+00:09:53,489 --> 00:09:55,724
+cuida de Oso Reloj.
+
+235
+00:09:55,725 --> 00:09:57,392
+¡Hay algo que tengo que hacer!
+
+236
+00:09:57,393 --> 00:09:59,194
+Espera, ¡aún estoy confundido!
+
+237
+00:09:59,195 --> 00:10:00,395
+¡Y tener sentimientos!
+
+238
+00:10:00,396 --> 00:10:03,765
+Oh,
+
+239
+00:10:10,474 --> 00:10:11,840
+muchacho, ¡nuestro primer caso!
+
+240
+00:10:11,841 --> 00:10:14,042
+¡Parece que tenemos un poltergeist!
+
+241
+00:10:16,213 --> 00:10:17,907
+Y está un poco enamorado de mí.
+
+242
+00:10:17,908 --> 00:10:19,185
+¡Qué sassafrass!
+
+243
+00:10:19,732 --> 00:10:21,750
+¡Tengo que grabar esto!
+
+244
+00:10:21,751 --> 00:10:23,518
+Whoops!
+
+245
+00:10:25,823 --> 00:10:29,541
+Si todo este tiempo fue raro,
+supongo que ese recuerdo era cierto.
+
+246
+00:10:29,542 --> 00:10:32,490
+Vi mi propio nacimiento.Muy lejos.
+
+247
+00:10:33,963 --> 00:10:35,262
+Oh!
+
+248
+00:10:35,263 --> 00:10:38,166
+Debe ser un fantasma del tiempo.
+
+249
+00:10:38,167 --> 00:10:41,670
+
+
+250
+00:10:41,671 --> 00:10:43,120
+Hmm.
+
+251
+00:10:43,121 --> 00:10:46,556
+¡Tenemos que irnos!
+
+252
+00:10:46,557 --> 00:10:48,089
+¿Qué estamos haciendo ahora?
+
+253
+00:10:48,090 --> 00:10:49,678
+Era sólo Oso Reloj.
+
+254
+00:10:49,679 --> 00:10:52,381
+No, no creo que tenga dinero.
+
+255
+00:10:53,832 --> 00:10:55,717
+¿Jake?¡Jake!
+
+256
+00:10:55,718 --> 00:10:57,803
+¡Oh, no!¡Algo le ha pasado a Jake!
+
+257
+00:10:57,804 --> 00:10:59,087
+Podría estar en grave peligro...
+
+258
+00:10:59,088 --> 00:11:02,190
+DIFUNDE LA
+PALABRA-adicto7ed.
+
+259
+00:11:02,191 --> 00:11:03,746
+com</font></b>Okay, entonces.
+

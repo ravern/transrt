@@ -38,6 +38,7 @@ func main() {
 	tGroups = append(tGroups, groups...)
 
 	lines = UngroupLines(tGroups)
+	lines = append(lines, "") // Fix the issue of empty last line
 	InsertLines(subs, lines)
 	err = WriteFile(subs, c.output)
 	check(err)
