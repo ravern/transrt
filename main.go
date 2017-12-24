@@ -15,6 +15,7 @@ type config struct {
 	output string
 	from   string
 	to     string
+	rate   int
 }
 
 func main() {
@@ -23,9 +24,20 @@ func main() {
 	check(err)
 	lines := ExtractLines(subs)
 	groups := GroupLinesSentences(lines)
+
+	tGroups := [][]string{}
+	for len(groups) > c.rate {
+		g := groups[:c.rate]
+		groups = groups[c.rate:]
+		g, err := TranslateGroups(g, c.from, c.to)
+		check(err)
+		tGroups = append(tGroups, g...)
+	}
 	groups, err = TranslateGroups(groups, c.from, c.to)
 	check(err)
-	lines = UngroupLines(groups)
+	tGroups = append(tGroups, groups...)
+
+	lines = UngroupLines(tGroups)
 	InsertLines(subs, lines)
 	err = WriteFile(subs, c.output)
 	check(err)
@@ -44,6 +56,7 @@ func parseFlags() *config {
 	flag.StringVar(&c.output, "output", "output.srt", "File to write the translations to")
 	flag.StringVar(&c.from, "from", "EN", "Language to translate from")
 	flag.StringVar(&c.to, "to", "DE", "Language to translate to")
+	flag.IntVar(&c.rate, "rate", 1, "Number of groups per request")
 	flag.Parse()
 	return c
 }
