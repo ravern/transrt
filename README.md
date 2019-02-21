@@ -1,4 +1,4 @@
-# Translate SRT
+# TranSRT
 Translates a .srt file via deepl.com (Made for GCI 2017). It only works for small files currently due to DeepL's rate limiting on their private API.
 
 ## Installation
